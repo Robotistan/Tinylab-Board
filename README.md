@@ -12,7 +12,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/ozerngg/Tinylab/assets/112697142/2e7b29f0-4586-46a7-81f4-4a36fc6df727" />
+  <img src="https://github.com/Robotistan/Tinylab-Board/assets/112697142/e0970d54-78e3-4872-9045-a63a11d1128a" />
 </p>
-
-
